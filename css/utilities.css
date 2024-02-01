@@ -7,3 +7,45 @@
 .text-secondary {
     color: #0284d0;
 }
+
+.btn {
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px 30px;
+    color: #fff;
+    background-color: #ec09ce;
+    border: none;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+
+.btn:hover {
+    opacity: 0.9;
+
+}
+
+.btn-primary {
+    background: #ec09ce;
+    color: #fff;
+}
+
+.btn-secondary {
+    background: #0284d0;
+    color: #fff;
+}
+
+.btn-dark {
+    background: #333;
+    color: #fff;
+}
+
+.btn-light {
+    background: #f4f4f4;
+    color: #333;
+}
+
+
+
